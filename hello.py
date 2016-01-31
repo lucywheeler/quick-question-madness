@@ -42,3 +42,4 @@ if pet.lower() == "dog":
     print "that is mine"
 else:
     print "mine is a dog"
+print "please play Quick Question Madness again bye hope to see you soon!"
