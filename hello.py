@@ -34,12 +34,19 @@ print "that is very cool"
 if sport.lower() == "soccer":
     print "that is mine too"
 else:
-    print "oh mine is soccer"
+    print  "mine is soccer"
 
 print "what is your favorite kind of pet?"
 pet = raw_input()
+
 if pet.lower() == "dog":
     print "that is mine"
 else:
     print "mine is a dog"
-print "please play Quick Question Madness again bye hope to see you soon!"
+
+print "when you were little what was the most embarrising thing that happened to you ?"
+embarrising_thing = raw_input()
+
+print "hahahahaha!"
+
+print "Please play Quick Question Madness again bye hope to see you soon!"
